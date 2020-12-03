@@ -61,8 +61,8 @@ int main(int argc, char** argv){
     }
     */
 
-    println("product for part one is %d\n", $I(find_product_part_one(NumbersFromFile)));
-    println("product for part two is %d\n", $I(find_product_part_two(NumbersFromFile)));
+    println("product for part one is %d", $I(find_product_part_one(NumbersFromFile)));
+    println("product for part two is %d", $I(find_product_part_two(NumbersFromFile)));
 
     return 0;
 }
