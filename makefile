@@ -1,6 +1,12 @@
 CC=gcc
-CFLAGS=-O3 -lcello -lDbgHelp -g
+CFLAGS=-g -lcello -lDbgHelp
 VPATH=$(wildcard day*)
+
+day3: solution_day_3
+	$< $(input)
+
+solution_day_3: solution_day_3.c
+	$(CC) $^ -o solution_day_3 $(CFLAGS)
 
 day2: solution_day_2
 	$< $(input)
