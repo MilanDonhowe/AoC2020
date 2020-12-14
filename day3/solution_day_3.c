@@ -69,9 +69,8 @@ struct Array* build_grid_from_file(FILE* grid_file){
             if (row_string[i] == '#') next_row->blocks[i] = TREE;
         } 
         push(grid_array, next_row);
-    }    
-
-
+    }
+    fclose(grid_file); 
     return grid_array;
 }
 
