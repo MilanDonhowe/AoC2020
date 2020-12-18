@@ -14,7 +14,7 @@ def tokenize(line):
             line = line[oper.end():]
 
         elif re.match(r"\(", line):
-            # quick paranthetical parsing
+            # quick parenthetical parsing
             depth = 0
             inside_str = ""
             c = 1
