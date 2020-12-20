@@ -1,0 +1,16 @@
+/home/milan/problems/AoC2020/day19/RegexMatcher/bin/Debug/net5.0/RegexMatcher
+/home/milan/problems/AoC2020/day19/RegexMatcher/bin/Debug/net5.0/RegexMatcher.deps.json
+/home/milan/problems/AoC2020/day19/RegexMatcher/bin/Debug/net5.0/RegexMatcher.runtimeconfig.json
+/home/milan/problems/AoC2020/day19/RegexMatcher/bin/Debug/net5.0/RegexMatcher.runtimeconfig.dev.json
+/home/milan/problems/AoC2020/day19/RegexMatcher/bin/Debug/net5.0/RegexMatcher.dll
+/home/milan/problems/AoC2020/day19/RegexMatcher/bin/Debug/net5.0/ref/RegexMatcher.dll
+/home/milan/problems/AoC2020/day19/RegexMatcher/bin/Debug/net5.0/RegexMatcher.pdb
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.csprojAssemblyReference.cache
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.GeneratedMSBuildEditorConfig.editorconfig
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.AssemblyInfoInputs.cache
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.AssemblyInfo.cs
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.csproj.CoreCompileInputs.cache
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.dll
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/ref/RegexMatcher.dll
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.pdb
+/home/milan/problems/AoC2020/day19/RegexMatcher/obj/Debug/net5.0/RegexMatcher.genruntimeconfig.cache
